@@ -6,6 +6,8 @@
 <p>Besides coding and studying, I have a huge passion for music, and I work as a piano tuner on the side. 🎹 </p>
 <p>I'm a hardworker with passion in web dev, I'm an extravert who loves to make friends and talk to people which I think would be great for communication with my co-workers </p>
 
+<p>I have also explains what I have are the most useful projects with web dev that I have done in my resume, Thank you! </p>
+
 </br>
 
 
