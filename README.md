@@ -1,9 +1,11 @@
 ### Hi I'm Jingyu Zhang :)
 
 <p>I'm a senior student studying Computer Science at the University of Marylabnd - College Park. 👨‍🎓 </p>
-<p></p>I love web developement, React is my favorite. 💻 </p>
-<p></p>The creativity and problem solving that Web Developement has brought me, makes it exremely fun to learn.🤓</p>
-<p></p>Besides coding and studying, I have a huge passion for music, and I work as a piano tuner on the side. 🎹 </p>
+<p>I love web developement, React is my favorite. 💻 </p>
+<p>The creativity and problem solving that Web Developement has brought me, makes it exremely fun to learn.🤓</p>
+<p>Besides coding and studying, I have a huge passion for music, and I work as a piano tuner on the side. 🎹 </p>
+<p>I'm a hardworker with passion in web dev, I'm an extravert who loves to make friends and talk to people which I think would be great for communication with my co-workers </p>
+
 </br>
 
 
