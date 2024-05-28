@@ -6,9 +6,6 @@
 <p></p>Besides coding and studying, I have a huge passion for music, and I work as a piano tuner on the side. 🎹 </p>
 </br>
 
-<p>The projects that I have worked on including:<p/>
-
-
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JingYuZ07)](https://github.com/anuraghazra/github-readme-stats)
